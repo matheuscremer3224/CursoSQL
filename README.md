@@ -10,3 +10,6 @@ Este repositório guarda meus códigos e anotações do meu aprendizado em Banco
 ## 📚 O que estou aprendendo
 * Como conectar a API do BigQuery
 * Consultas básicas (SELECT, FROM, WHERE)
+* Utilizar as with
+* Como usar ordery by e group by
+* Como utilizar LIKE e JOIN
